@@ -3,16 +3,16 @@ The language identification module as used in the following paper: http://www.cl
 
 If you use this model, please cite the paper as follows:
 
-@inproceedings {hoogeveen2011,
-	title = {CorpusCollie - A Web Corpus Mining Tool for Resource-Scarce Languages},
-	booktitle = {Proceedings of Conference on Human Language Technology for Development},
-	year = {2011},
-	pages = {44-49},
-	publisher = {Bibliotheca Alexandrina},
-	organization = {Bibliotheca Alexandrina},
-	address = {Alexandria, Egypt},
-	attachments = {http://www.clips.ua.ac.be/sites/default/files/coco.pdf},
-	author = {Hoogeveen, Doris and De Pauw, Guy}
+@inproceedings {hoogeveen2011,<br />
+	title = {CorpusCollie - A Web Corpus Mining Tool for Resource-Scarce Languages},<br />
+	booktitle = {Proceedings of Conference on Human Language Technology for Development},<br />
+	year = {2011},<br />
+	pages = {44-49},<br />
+	publisher = {Bibliotheca Alexandrina},<br />
+	organization = {Bibliotheca Alexandrina},<br />
+	address = {Alexandria, Egypt},<br />
+	attachments = {http://www.clips.ua.ac.be/sites/default/files/coco.pdf},<br />
+	author = {Hoogeveen, Doris and De Pauw, Guy}<br />
 }
 
 The script can be used to perform language identification using a maxent classifier and a set of language models.
