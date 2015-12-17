@@ -19,10 +19,10 @@ The script can be used to perform language identification using a maxent classif
 
 USAGE: language_identification.py \<inputfile\> \<maxent_dir\>
 
-\<inputfile\> is the file you would like to know the language off. This should be a plain text file encoded in UTF-8.
+\<inputfile\> is the file you would like to know the language off. This should be a plain text file encoded in UTF-8.<br />
 \<maxent_dir\> is the path to the directory that contains maxent.exe
 
-The script will output the iso name of the guesed language.
+The script will output the iso name of the guessed language.
 
 Example: language_identification.py inputfile /home/hoogeveen/maxent/
 
