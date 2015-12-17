@@ -1,5 +1,5 @@
 # MaxentLanguageIdentification
-The language identification module as used in the following paper: http://www.clips.ua.ac.be/sites/default/files/coco.pdf
+The language identification module as used in: http://www.clips.ua.ac.be/sites/default/files/coco.pdf
 
 If you use this model, please cite the paper as follows:
 
