@@ -27,3 +27,6 @@ The script will output the iso name of the guesed language.
 Example: language_identification.py inputfile /home/hoogeveen/maxent/
 
 Prerequisite: Wine needs to be installed to be able to run the classifier.
+
+The test text in 'inputfile' is a Dutch story by Toon Tellegen, taken from http://www.dbnl.org/tekst/tell003lang01_01/tell003lang01_01_0001.php <br />
+I do not own the rights to this text in any way.
