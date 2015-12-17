@@ -17,10 +17,10 @@ If you use this model, please cite the paper as follows:
 
 The script can be used to perform language identification using a maxent classifier and a set of language models.
 
-USAGE: language_identification.py <inputfile> <maxent_dir>
+USAGE: language_identification.py \<inputfile\> \<maxent_dir\>
 
-<inputfile> is the file you would like to know the language off. This should be a plain text file encoded in UTF-8.
-<maxent_dir> is the path to the directory that contains maxent.exe
+\<inputfile\> is the file you would like to know the language off. This should be a plain text file encoded in UTF-8.
+\<maxent_dir\> is the path to the directory that contains maxent.exe
 
 The script will output the iso name of the guesed language.
 
